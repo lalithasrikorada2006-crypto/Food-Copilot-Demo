@@ -22,7 +22,7 @@ AI explains in simple language
 Decision shown (OK / Caution / Avoid)
 ## UI Screens
 ### Screen 1 – Upload Ingredients
-![Uploading Screen](UI/Screen1_Uploading.jpg)
+![Uploading Screen](UI/Screen1_Upload.jpg)
 
 ### Screen 2 – AI Processing
 ![AI Processing](UI/Screen2_AI.jpg)
